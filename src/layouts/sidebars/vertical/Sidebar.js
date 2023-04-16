@@ -54,6 +54,11 @@ const navigation = [
     href: "/about",
     icon: "bi bi-people",
   },
+  {
+    title: "User",
+    href: "/ui/Users/ListUsers",
+    icon: "bi bi-person-lines-fill",
+  },
 ];
 
 const Sidebar = ({ showMobilemenu }) => {
